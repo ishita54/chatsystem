@@ -56,11 +56,6 @@ movies.on('connection', (socket) => {
 //     })  
 // })  
 
-
-
-
-
-
 server.listen(port, () => {
     console.log(`Connected to port ${port}`)
 })
